@@ -1,8 +1,6 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Eric Mulvin,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/owner.jpg,Corporate,,,,false,Owner,pb_o,,
 Elvie Mae Bering,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/executive-assistant.jpg,Corporate,,,,false,Executive Assistant,pb_ea,pb_o,
-Armando Dubal,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/business-development-1.jpg,Corporate,,,,false,Business Development,pb_bd1,pb_ea,
-Vevien Sorsano,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/business-development-2.jpg ,Corporate,,,,false,Business Development,pb_bd2,pb_ea,
 Josephine Amaro,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/general-manager.jpg  ,Corporate,,,,false,General Manager,pb_gm,pb_o,
 Kiezia Eguia,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/director-of-company-culture.jpg,Corporate,,,,false,Directory of Company Culture,pb_docc,pb_o,
 Luchie Stemper,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@master/Images/deputy-director-of-company-culture.jpg,Corporate,,,,false,Deputy Director of Company Culture,pb_ddocc,pb_docc,
