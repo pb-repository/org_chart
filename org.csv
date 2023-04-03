@@ -1,7 +1,7 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 Eric Mulvin,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/owner.jpg,Corporate,,,,false,Owner,pb_o,,
 Elvie Mae Bering,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/executive-assistant.jpg,Corporate,,,,false,Executive Assistant,pb_ea,pb_o,
-Josephine Amaro,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/general-manager.jpg  ,Corporate,,,,false,General Manager,pb_gm,pb_o,
+Josephine Amaro,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/general-manager.jpg,Corporate,,,,false,General Manager,pb_gm,pb_o,
 Kiezia Eguia,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/director-of-company-culture.jpg,Corporate,,,,false,Directory of Company Culture,pb_docc,pb_o,
 Luchie Stemper,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/deputy-director-of-company-culture.jpg,Corporate,,,,false,Deputy Director of Company Culture,pb_ddocc,pb_docc,
 Paul Benzi Florendo,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/company-culture-committee-1.jpg,Corporate,,,,false,Company Culture Committee,pb_ccc1,pb_docc,
